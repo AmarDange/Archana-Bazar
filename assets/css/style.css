@@ -163,4 +163,24 @@ animation-fill-mode: forwards;
     background: url('../css/images/study-centerethos.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
+}/* event times */
+
+#times{
+    background-image: url(../css/images/times-background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+
 }
+
+
+
+
+
+
+
+
+
+
