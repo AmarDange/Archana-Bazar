@@ -256,10 +256,24 @@ hr{
         line-height: 25px;
     }
 }
-
-
-
-
+#cover-text{
+    left: 0;
+}
+#shop-ethos{
+    width: 90%;
+    height: 1440px;
+    margin: o auto;
+}
+.left-about-heading, .right-about-heading{
+    width: inherit;
+}
+.left-about-heading, .right-about-heading h2{
+    width: 100%;
+    text-align: center;
+}
+.left-about-heading, .right-about-heading p{
+    text-align: center;
+}
 
 
 
