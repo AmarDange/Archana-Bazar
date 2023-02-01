@@ -214,6 +214,25 @@ footer{
        width: 100%;
 }
 
+/* media queries */
+
+/* for larger to medium screens size 1200px wide and down */
+
+@media  screen and (max-width:1200px) {
+    #shop-ethos{
+            width: 65%;
+            height: 1200px;
+            margin: 0 auto;
+    }   
+}
+#welcome{
+    padding: 30px 0;
+}
+
+
+
+
+
 
 
 
