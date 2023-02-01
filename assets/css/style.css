@@ -222,15 +222,15 @@ footer{
 
 /* form */
 
-/* .form-section {
+  .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("../css/images/background-image.jpg");
     background-size: cover;
     background-position: center;
-    height: 900px;
+    height: 700px;
 }
 
-.signup-form {
+  .signup-form { 
     margin: 150px 10% 0 0;
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
@@ -238,14 +238,14 @@ footer{
     position: absolute;
     left: 10%;
     padding: 30px;
-}
+} 
 
-.signup-form > h2 {
+ .signup-form > h2 {
     color: #fafafa;
     margin-bottom: 20px;
 }
 
-.text-input {
+ .text-input {
     background: transparent;
     color: #fafafa;
     width: 100%;
@@ -255,7 +255,7 @@ footer{
     border-radius: 2px;
 }
 
-.text-input:hover {
+ .text-input:hover {
     border-color: #f16c6b;
 }
 
@@ -273,7 +273,7 @@ footer{
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
-} */
+}  */  */
 
 /* media queries */
 
