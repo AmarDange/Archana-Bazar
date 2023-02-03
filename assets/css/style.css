@@ -169,7 +169,7 @@ animation-fill-mode: forwards;
     background: url('../css/images/study-centerethos.jpg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
-}/* event times */
+}event times
 
 #times{
     background-image: url(../css/images/times-background2.jpg);
@@ -193,7 +193,7 @@ animation-fill-mode: forwards;
 #times h2{
     color: #fafafa;
 }
-/* footer */
+
 footer{
     height: 150px;
 }
@@ -208,7 +208,7 @@ footer{
     margin: 1%;
     padding: 5%;
     color: #3a3a3a;
-}
+} 
 /* gallery */
 #photos {
     clear: both;
@@ -222,7 +222,7 @@ footer{
 
 /* form */
 
-  .form-section {
+  /* .form-section {
     clear: left;
     background: url("../css/images/background-image.jpg");
     background-size: cover;
@@ -273,13 +273,13 @@ footer{
 .join-button:hover {
     background-color: #fafafa;
     color: #f16c6b;
-}  */  */
+}  */ 
 
 /* media queries */
 
 /* for larger to medium screens size 1200px wide and down */
  
- @media  screen and (max-width:1200px) {
+ /* @media  screen and (max-width:1200px) {
     #shop-ethos{
             width: 65%;
             height: 1200px;
@@ -314,7 +314,7 @@ hr{
 } 
 /* for medium screen sizes from 950px wide and down */
 
- @media screen and (max-width: 950px) {
+ /* @media screen and (max-width: 950px) {
     
     #menu{
         clear: left;
@@ -351,7 +351,7 @@ hr{
     #photos {
         columns-count: 2; 
     }
-} 
+}  */ 
 
 
 
