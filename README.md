@@ -1,4 +1,4 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![The live link can be found here -](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome AmarDange,
 
