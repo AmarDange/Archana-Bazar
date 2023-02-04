@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Oswald:wght@300&display=swap');
 * {
-    margin:0;
+    margin: 0;
     padding: 0;
     border: 0;
  }
@@ -25,7 +25,7 @@ header {
 }
 
 footer {
-    height: 90px;
+    height: 75px;
     background-color: #f7ce9b;
     bottom: 0;
     /* position: fixed; */
@@ -216,9 +216,9 @@ animation-fill-mode: forwards;
     color: #fafafa;
 }
 
-footer{
-    height: 50px;
-}
+/* footer{
+    height: 10px;
+} */
 .social-networks{
     text-align: center;
 }
@@ -228,8 +228,8 @@ footer{
 
 .social-networks li i {
     font-size: 200%;
-    margin: 5px;
-    padding: 5px 10px;
+    margin: 10px;
+    padding: 10px 60px;
     color: #3a3a3a;
 }
 
@@ -325,136 +325,9 @@ button {
 
 } 
 
-  /* .form-section {
-    clear: left;
-    background: url("../css/images/background-image.jpg");
-    background-size: cover;
-    background-position: center;
-    height: 700px;
-} 
-
-   .signup-form { 
-    margin: 150px 10% 0 0;
-    color: #fff;
-    background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
-    position: absolute;
-    left: 10%;
-    padding: 30px;
-} 
-
- .signup-form > h2 {
-    color: #fafafa;
-    margin-bottom: 20px; 
-} 
-
- .text-input {
-    background: transparent;
-    color: #fafafa;
-    width: 100%;
-    height: 25px;
-    margin: 5px 0 20px 0;
-    border: 1px solid #fafafa;
-    border-radius: 2px;
-} 
-
- .text-input:hover {
-    border-color: #f16c6b; */
 
 
-/* .join-button {
-    margin-top: 20px;
-    border-radius: 2px;
-    padding: 15px 32px 15px 32px;
-    text-align: center;
-    font-size: 100%;
-    background-color: #f16c6b;
-    color: #fafafa;
-    display: block;
-}
 
-.join-button:hover {
-    background-color: #fafafa;
-    color: #f16c6b;
-}  */ 
-/* 
-/* media queries */
-
-/* for larger to medium screens size 1200px wide and down */
- 
-  /* @media  screen and (max-width:1200px) {
-    #shop-ethos{
-            width: 65%;
-            height: 1200px;
-            margin: 0 auto;
-    }   
-}
-#welcome{
-    padding: 30px 0;
-    margin-top: 0;
-}
-
-#left-about, #right-about{
-    width: 100%;
-    float: left;
-    padding: 0;
-}
-#center-about{
-    clear: both;
-    width: 100%;
-    float: left;
-    padding: 0;
-}
-
-#times > div {
-    width: 100%;
-    clear: both;
-    height: 150px; 
-    padding: 0;
-}
-hr{
-   display: none; 
-}  */ 
-/* for medium screen sizes from 950px wide and down */
-
- /* @media screen and (max-width: 950px) {
-    
-    #menu{
-        clear: left;
-        float: left;
-        margin-left: 30px;
-        margin-bottom: 20px;
-        line-height: 25px;
-    }
-}
-#cover-text{
-    left: 0;
-}
-#shop-ethos{
-    width: 90%;
-    height: 1200px;
-    margin: o auto;
-}
-.left-about-heading, .right-about-heading{
-    width: inherit;
-}
-.left-about-heading, .right-about-heading h2{
-    width: 100%;
-    text-align: center;
-}
-.left-about-heading, .right-about-heading p{
-    text-align: center;
-    padding: 0 20px;
-}
- #photos {
-     columns-count: 3;
- }
-
-@media screen and (max-width: 800px) {
-    #photos {
-        columns-count: 2; 
-    }
-}  */ 
 
 
 
