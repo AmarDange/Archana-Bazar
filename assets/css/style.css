@@ -237,8 +237,7 @@ animation-fill-mode: forwards;
 #photos {
     clear: both;
     line-height: 2;
-    column-count:4;
-    column-gap: 2;
+    column-count:4;    
 }
 #photos > img {
        width: 100%;
@@ -254,8 +253,7 @@ animation-fill-mode: forwards;
 #contact-form h2 {
     font-size: 180%;
     color: #B85042;
-    margin-bottom: center;
-    margin-top: center;
+   
 }
 
 label {
