@@ -322,9 +322,82 @@ button {
 #thanks-msg>button {
     margin-left: 40%;
     text-align: center;
-
-
 } 
+
+
+/* Media query for maximum width 750px */
+@media screen and (max-width:750px) {
+
+    header {
+        flex-direction: column;
+    }
+
+    #logo {
+        font-size: 120%;
+        padding-top: 10px;
+    }
+
+    #menu li {
+        font-size: 90%;
+        margin: 10px;
+    }
+
+    #hero-image h2 {
+        margin-top: 50%;
+    }
+
+    @keyframes text-move {
+        from {
+            left: 0px;
+        }
+
+        to {
+            left: 550px;
+        }
+    }
+
+    #advantage {
+        flex-direction: column;
+    }
+
+    .yoga-for {
+        flex-direction: column;
+    }
+
+    .yoga-for img {
+        width: 90%;
+    }
+
+}
+
+/* Media query for maximum width 450px */
+@media screen and (max-width:450px) {
+    #menu li {
+        font-size: 65%;
+        margin: 5px;
+    }
+
+    #hero-image h2 {
+        margin-top: 80%;
+        margin-left: 2px;
+        font-size: 150%;
+        width: 200px;
+    }
+
+    @keyframes text-move {
+        from {
+            left: 0px;
+        }
+
+        to {
+            left: 250px;
+        }
+    }
+
+    #yoga-benefits h2 {
+        font-size: 150%;
+    }
+}
 
 
 
