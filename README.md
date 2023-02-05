@@ -5,18 +5,16 @@ The live link can be found here - https://amardange.github.io/Archana-Bazar/
 Archana Bazar was founded by Dange family in 1999; and since then has been Karad’s most loved educational content provider. Archana Bazar sales stationery, general books,Engineering Books,Pharmacy Books,HSC and SSC Board exam Books and children’s books in multiple Indian and foreign languages. Our vision is to provide the highest quality of educational products and services to customers in the language/medium of their choice. This website also provides an option to the user for any specific inquiry for the books via contact form.
 
 ![image](https://user-images.githubusercontent.com/122646108/216813829-76d7ccf0-d656-4425-81f4-9ee33d1029ca.png)
-![Uploading image.png…]()
+
+Features 
+Existing Features 
+•	Navigation Bar
+	Featured at the top of the page, the navigation shows the shop name in the left corner: Archana Bazar. 
+	The other navigation links are to the right: Gallery and Contact Us. 
+	Featured on all three pages, the full responsive navigation bar includes links to the home page, Gallery and Contact us page and is identical in each page to allow for easy navigation. 
+	This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 
-Features
-Existing Features
-Navigation Bar
-
-Featured at the top of the page, the navigation shows the shop name in the left corner: Archana Bazar.
-The other navigation links are to the right: Gallery and Contact Us.
-Featured on all three pages, the full responsive navigation bar includes links to the Home page, Gallery and Contact us page and is identical in each page to allow for easy navigation.
-This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button.
-Nav Bar
 
 The landing page
 
