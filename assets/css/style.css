@@ -8,10 +8,10 @@
 body{
     font-family: 'lato', serif, sans-serif;
     font-weight: 800;
-    color: black;
+    color: white;
     background-color: #B85042;
 }
- 
+/* black */
 header {
     display: flex;
     align-items: center;
@@ -19,14 +19,15 @@ header {
     position: sticky;
     top: 0;
     border-bottom: 0.5px solid #661106;
-    background-color: #f7ce9b;
+    background-color: #661106;
     height: 90px;
     z-index: 1;
 }
 
+/* #f7ce9b  */
 footer {
     height: 75px;
-    background-color: #f7ce9b;
+    background-color: #661106;                        
     bottom: 0;
     /* position: fixed; */
     left: 0;
@@ -38,8 +39,10 @@ h1, h2{
       font-family: oswald, sans-serif;
       text-transform: uppercase;
       letter-spacing: 4px;
-      color: #252525; 
+      color: white; 
 }
+
+/* #252525 */
 #logo{
     float:left;
     font-size: 280%;
@@ -230,9 +233,9 @@ animation-fill-mode: forwards;
     font-size: 200%;
     margin: 10px;
     padding: 10px 60px;
-    color: #3a3a3a;
+    color: white ;
 }
-
+/* #3a3a3a */
 /* gallery */
 #photos {
     clear: both;
