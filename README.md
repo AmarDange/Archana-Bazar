@@ -72,7 +72,7 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
  ![image](https://user-images.githubusercontent.com/122646108/216822055-8dded876-c590-44de-aeb4-1e32aa4cec33.png)
  
  
- - ### Testing  
+ ## Testing  
  
    - I tested the following:
 
@@ -83,54 +83,62 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
     - When social link in the footer is clicked, it directs to the respective social media page.
     
     
-- ### Bugs 
+ ## Bugs 
 
-  - ### Fixed bugs
+   - ### Fixed bugs
   
-     - on different pages of the website, header background color was not visible on smaller devices.
+      - on different pages of the website, header background color was not visible on smaller devices.
 
-     - to solve this bug, I used flex-direction:column instead of display:inline flex-direction
+      - to solve this bug, I used flex-direction:column instead of display:inline flex-direction
      
      ![image](https://user-images.githubusercontent.com/122646108/216823781-ff0b9624-831a-4361-ba69-5ef1da4c9994.png)
 
-      - additionally, for code optimization, I removed repeated use of background color property from each media query.
+       - additionally, for code optimization, I removed repeated use of background color property from each media query.
       
    - Submission on contact page submits the information without validating the required entries.
 
-     - to solve this bug, I removed the anchor tag as a descendent of the button and added page link in action attribute.
+      - to solve this bug, I removed the anchor tag as a descendent of the button and added page link in action attribute.
      
      
-Validator Testing
-HTML
+- ### Validator Testing
 
-No error was returned when passing through the official for index.html W3C validator
-No error was returned when passing through the official for gallery.html W3C validator
-No error was returned when passing through the official for contactus.html W3C validator
-No error was returned when passing through the official for thanks.html W3C validator
-CSS
+   - HTML
+   
+       No error was returned when passing through the official for index.html  W3C validator
+       No error was returned when passing through the official for gallery.html  W3C validator
+       No error was returned when passing through the official for contactus.html  W3C validator
+       No error was returned when passing through the official for thanks.html  W3C validator
+       
+   - CSS
 
-No errors were found when passing through the official (Jigsaw) validator
-Accessibility
+      No errors were found when passing through the official (Jigsaw) validator
+      
+ - ### Accessibility
 
-Lighthouse test for mobile
+     - Lighthouse test for mobile
 
-Lighthouse test mobile
+     - Lighthouse test mobile
 
-Lighthouse test for desktop
+     - Lighthouse test for desktop
 
-Lighthouse test desktop
+     - Lighthouse test desktop
 
-Deployment
-The site was deployed to GitHub pages. The steps to deploy are as follows:
-In the GitHub repository, navigate to the Settings tab
-From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
-Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here -  https://amardange.github.io/Archana-Bazar/
-Credits
-Content
-Some of the texts for the Home page and Our Programs page was taken from different search results from Google/Bing. For example, https://www.sundaramgroups.in.
+- ### Deployment
 
-The icons in the footer were taken from CI Love Running project.
+  The site was deployed to GitHub pages. The steps to deploy are as follows:
+  
+    - In the GitHub repository, navigate to the Settings tab
+    - From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
+    - Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+     
+    - The live link can be found here -  https://amardange.github.io/Archana-Bazar/
+     
+- ### Credits
+   - ## Content
+    
+   - Some of the texts for the Home page and Our Programs page was taken from different search results from Google/Bing. For example, https://www.sundaramgroups.in.
 
-Media
-The photos used on the home and Our Programs page are from different open sources. For example www.pexels.com and www.shutterstocks.com.
+  - The icons in the footer were taken from CI Love Running project.
+
+- ### Media
+  - The photos used on the home and Our Programs page are from different open sources. For example www.pexels.com and www.shutterstocks.com.
