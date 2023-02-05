@@ -1,8 +1,12 @@
-The live link can be found here - 
+![image](https://user-images.githubusercontent.com/122646108/216813844-9f1c7d9b-e07d-459f-9623-413c5a24d565.png)
+
+The live link can be found here - https://amardange.github.io/Archana-Bazar/
 
 Archana Bazar was founded by Dange family in 1999; and since then has been Karad’s most loved educational content provider. Archana Bazar sales stationery, general books,Engineering Books,Pharmacy Books,HSC and SSC Board exam Books and children’s books in multiple Indian and foreign languages. Our vision is to provide the highest quality of educational products and services to customers in the language/medium of their choice. This website also provides an option to the user for any specific inquiry for the books via contact form.
 
-Responsive Mockup
+![image](https://user-images.githubusercontent.com/122646108/216813829-76d7ccf0-d656-4425-81f4-9ee33d1029ca.png)
+![Uploading image.png…]()
+
 
 Features
 Existing Features
@@ -80,7 +84,7 @@ The site was deployed to GitHub pages. The steps to deploy are as follows:
 In the GitHub repository, navigate to the Settings tab
 From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
 Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-The live link can be found here - https://AmarDange
+The live link can be found here -  https://amardange.github.io/Archana-Bazar/
 Credits
 Content
 Some of the texts for the Home page and Our Programs page was taken from different search results from Google/Bing. For example, https://www.sundaramgroups.in.
