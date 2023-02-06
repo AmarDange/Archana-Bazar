@@ -104,7 +104,7 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
 
    - HTML
    
-       No error was returned when passing through the official for index.html https://validator.w3.org/nu/#textarea
+       No error was returned when passing through the official for [index.html Showing results for contents of text-input area - Nu Html Checker.html](https://validator.w3.org/nu/#textarea)
        
        No error was returned when passing through the official for gallery.html https://validator.w3.org/
        
