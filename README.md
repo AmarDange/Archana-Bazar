@@ -103,13 +103,13 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
 
    - HTML
    
-       No error was returned when passing through the official for [W3C validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazar%2Findex.html)
+       No error was returned when passing through the official for index.html [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazar%2Findex.html)
        
-       No error was returned when passing through the official for gallery.html https://validator.w3.org/
+       No error was returned when passing through the official for gallery.html [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazar%2Fgallery.html)
        
-       No error was returned when passing through the official for contactus.html https://validator.w3.org/
+       No error was returned when passing through the official for contact-us.html [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazar%2Fcontact-us.html)
        
-       No error was returned when passing through the official for thanks.html https://validator.w3.org/
+       No error was returned when passing through the official for thanks.html [W3C Validator](https://validator.w3.org/nu/?showsource=yes&doc=https%3A%2F%2Famardange.github.io%2FArchana-Bazar%2Fthanks.html)
        
    - CSS
 
