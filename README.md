@@ -71,6 +71,7 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
   
  ![image](https://user-images.githubusercontent.com/122646108/216822055-8dded876-c590-44de-aeb4-1e32aa4cec33.png)
     
+    
    ## Testing  
  
    - I tested the following:
@@ -80,6 +81,7 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
     - The responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, Tablet-768px, Laptop-1024px) using Devtools sevice          toolbar. The different CSS propoerties for font, color, background-color, links, submit button work as expected.
     - Animation of the hero-image text moves within the defined area.
     - When social link in the footer is clicked, it directs to the respective social media page.
+    
     
  ## Bugs 
 
