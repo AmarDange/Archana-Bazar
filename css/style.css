@@ -197,7 +197,6 @@ animation-fill-mode: forwards;
 /* event times */
 
 #times{
-    background-image: url('../css/images/times-background2.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
