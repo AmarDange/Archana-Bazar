@@ -123,7 +123,7 @@ Archana Bazar was founded by Dange family in 1999; and since then has been Karad
      
      - Lighthouse test for desktop
 
-     - Lighthouse test desktop
+     - ![image](https://user-images.githubusercontent.com/122646108/217484094-f535f0a9-72fa-4f36-b8c3-98ea086e1519.png)
 
 - ### Deployment
 
