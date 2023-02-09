@@ -38,7 +38,7 @@ This website also provides an option to the user for any specific inquiry for th
    - Media
    - Credit
    
-   ## UX
+ ## UX
 
 ### User Demographic
 
