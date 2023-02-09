@@ -21,13 +21,13 @@ This website also provides an option to the user for any specific inquiry for th
       - [Images](#images "Images")
  - [Feature](#features "Features")
      - [Existing Feature](#existing-features "Existing Features")
-      - [Navigation Bar](#navigation-bar "Navigation Bar")
-      - [The landing Page](#the landing Page "The landing Page")
-      -[Available books in our shop](#available books in our shop "Available books in our shop")
-      - [Our branches](#our branches "Our branches")
-      - [The footer](#the footer "The footer")
-      - [Gallery](#gallery "Gallery")
-      - [Contact us Page](#contact us page "Contact us Page")
+     - [Navigation Bar](#navigation-bar "Navigation Bar")
+     - [The landing Page](#the landing Page "The landing Page")
+     - [Available books in our shop](#available books in our shop "Available books in our shop")
+     - [Our branches](#our branches "Our branches")
+     - [The footer](#the footer "The footer")
+     - [Gallery](#gallery "Gallery")
+     - [Contact us Page](#contact us page "Contact us Page")
         - The submit confirmation Page
    - Technology used
    - Testing
