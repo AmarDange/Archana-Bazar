@@ -22,6 +22,7 @@ This website also provides an option to the user for any specific inquiry for th
  - [Feature](#features "Features")
      - [Existing Feature](#existing-features "Existing Features")
      - [Navigation Bar](#navigation-bar "Navigation Bar")
+     - [The landing page](#the landing page "The landing page")
      - [The landing page](#the landing page "The Landing page")
      - [Available books in our shops](#available books in our shops 'Available books in our shops')
      - [Available books in our shops](#available books in our shops "Available books in our shops")
