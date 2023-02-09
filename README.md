@@ -24,6 +24,7 @@ This website also provides an option to the user for any specific inquiry for th
      - [Navigation Bar](#navigation-bar "Navigation Bar")
      - [The landing page](#the landing page "The Landing page")
      - [Available books in our shops](#available books in our shops "Available books in our shops")
+     - [Available books in our shops](#available books in our shops "Available books in our shops")
      - [Our branches](#our branches "Our branches")
      - [The footer](#the footer "The footer")
      - [Gallery](#gallery "Gallery")
