@@ -12,7 +12,7 @@ This website also provides an option to the user for any specific inquiry for th
 # Table of Content
 - UX
   - [User Demographic](#user-demographic "User Demographic")
-  - [User Strories](#user-stories "User Stories)
+  - [User Stories](#user-stories "User Stories)
     - [New Users](#new-users "New Users")
    - User Goals
    - Requirement
