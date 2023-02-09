@@ -207,6 +207,9 @@ Images have been chosen in accordance to the color and content. The purpose of t
    - Submission on contact page submits the information without validating the required entries.
 
       - to solve this bug, I removed the anchor tag as a descendent of the button and added page link in action attribute.
+      
+- ### Unfixed Bugs
+
 
 - ### Deployment
 
