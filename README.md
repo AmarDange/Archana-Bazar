@@ -38,6 +38,55 @@ This website also provides an option to the user for any specific inquiry for th
    - Content
    - Media
    - Credit
+   
+   ## UX
+
+### User Demographic
+
+This website is made for:
+
+ - Students & Parents who wants to know more information about the educational books.
+ - People wanting to find more information about the shop.
+
+### User Stories
+
+
+#### New Users
+
+ - As a new User: I want to know what the different starters and their evolutions has to offer me.
+ - As a new User: I want to feel whether the game is the right game for me.
+
+### User Goals
+
+ - Find information about Pokémon scarlet and Pokémon violet.
+ - Find information about the starter pokemons.
+ - Find information about what the evolutions of the starter pokémons are.
+ - Find information about where to buy the game.
+ - Watch the game trailer.
+
+### Requirements
+
+A static responsive website that incorporates the technologies I have learned so far that contains some advanced functionality. The development process needs to be well documented through a version controls system such as GitHub.
+
+Required technologies: HTML, CSS
+
+### Design
+
+Since this is my very first HTML/CSS project, the design has been influenced by the ”Love Running” project aswell as browsing around the internet.
+
+My goal for the website was to create a fun atmosphere were the user could get the standard "Pokémon" feeling yet still new and advanced in its functions. My wish was to create an interest in the game and a want to find out more.
+
+Pokémon scarlet and violet website is a three page website divided into sections. Menu is fixed on top in order to ensure easy navigation between the pages. The navigation also takes a "hamburger" form from 900 pixels and down.
+
+
+#### Typography
+
+The [Google Font Merriweather](https://fonts.google.com/specimen/Merriweather?query=mont) was chosen as the main font with a fallback of Sans-Serif. Font weights of 300, 500 and 800 have been used on the website.
+
+#### Images
+
+Images have been chosen in accordance to the color and content. The purpose of the website is to awaken curiosity and express quality. Images have been sized in order to match design.
+
          
 # Features 
 ## Existing Features 
