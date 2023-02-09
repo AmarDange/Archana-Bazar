@@ -12,12 +12,12 @@ This website also provides an option to the user for any specific inquiry for th
 # Table of Content
 - UX
   - [User Demographic](#user-demographic "User Demographic")
-  - [User Stories](#user-stories "User Stories)
+  - [User Stories](#user-stories "User Stories")
     - [New Users](#new-users "New Users")
-   - User Goals
-   - Requirement
-   - Design
-      - Typography
+   - User Goals(#user-goals "User Goals")
+   - Requirement(#requirements "Requirements")
+   - Design(#design "Design")
+      - Typography(#typography "Typography")
       - Images
  - Feature
     - Existing Feature
