@@ -22,16 +22,14 @@ This website also provides an option to the user for any specific inquiry for th
  - [Feature](#features "Features")
      - [Existing Feature](#existing-features "Existing Features")
      - [Navigation Bar](#navigation-bar "Navigation Bar")
-     - [The landing page](#the landing page "The landing page")
-     - [The landing page](#the landing page "The Landing page")
-     - [Available books in our shops](#available books in our shops 'Available books in our shops')
-     - [Available books in our shops](#available books in our shops "Available books in our shops")
-     - [Our branches](#our branches "Our branches")
-     - [The footer](#the footer "The footer")
-     - [Gallery](#gallery "Gallery")
-     - [Contact us Page](#contact us page "Contact us Page")
+     - The landing page
+     - Available books in our shops
+     - Our branches
+     - The footer
+     - Gallery
+     - Contact us Page
         - The submit confirmation Page
-   - [Technology used](#technology used "Technology used")
+     - Technology used
     - Testing
     - Validating Testing
     - Unfixed Bugs
