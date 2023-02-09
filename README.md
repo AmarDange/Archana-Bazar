@@ -71,11 +71,11 @@ Required technologies: HTML, CSS
 
 ### Design
 
-Since this is my very first HTML/CSS project, the design has been influenced by the ”Love Running” project aswell as browsing around the internet.
+This is my first HTML/CSS project, the design has been influenced by the ”Love Running” project aswell as browsing around the internet.
 
-My goal for the website was to create a fun atmosphere were the user could get the standard "Pokémon" feeling yet still new and advanced in its functions. My wish was to create an interest in the game and a want to find out more.
+My goal for the website is to provide information about educational books. My wish is to create an interest in the reading & Studying.
 
-Pokémon scarlet and violet website is a three page website divided into sections. Menu is fixed on top in order to ensure easy navigation between the pages. The navigation also takes a "hamburger" form from 900 pixels and down.
+Archana Bazar website is a three page website divided into sections which are Home, Gallery & Contact us.
 
 
 #### Typography
