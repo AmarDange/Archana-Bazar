@@ -14,10 +14,10 @@ This website also provides an option to the user for any specific inquiry for th
   - [User Demographic](#user-demographic "User Demographic")
   - [User Stories](#user-stories "User Stories")
     - [New Users](#new-users "New Users")
-   - User Goals(#user-goals "User Goals")
-   - Requirement(#requirements "Requirements")
-   - Design(#design "Design")
-      - Typography(#typography "Typography")
+    - [User Goals](#user-goals "User Goals")
+    - [Requirement](#requirements "Requirements")
+    - [Design](#design "Design")
+      - [Typography](#typography "Typography")
       - Images
  - Feature
     - Existing Feature
