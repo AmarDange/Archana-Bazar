@@ -17,7 +17,6 @@ This website also provides an option to the user for any specific inquiry for th
    - User Goals
    - Requirement
    - Design
-      - Color
       - Typography
       - Images
  - Feature
@@ -53,16 +52,16 @@ This website is made for:
 
 #### New Users
 
- - As a new User: I want to know what the different starters and their evolutions has to offer me.
- - As a new User: I want to feel whether the game is the right game for me.
+ - As a new User: I want to know what are the different types of books are available.
+ - As a new User: I want to know which shop is near to me.
 
 ### User Goals
 
- - Find information about Pokémon scarlet and Pokémon violet.
- - Find information about the starter pokemons.
- - Find information about what the evolutions of the starter pokémons are.
- - Find information about where to buy the game.
- - Watch the game trailer.
+ - Find information Engineering (Degree/Diploma) books.
+ - Find information about Pharmacy books .
+ - Find information about the HSC & SSC board examination books.
+ - Find information about General Stationary.
+ - Find Information about nearest shop.
 
 ### Requirements
 
