@@ -17,9 +17,28 @@ This website also provides an option to the user for any specific inquiry for th
    - User Goals
    - Requirement
    - Design
-    - Color
-    - Typography
-    - Images  
+      - Color
+      - Typography
+      - Images
+ - Feature
+    - Existing Feature
+      - Navigation Bar
+      - Tha landing Page
+      - Available books in our shop
+      - Our branches
+      - The footer
+      - Gallery
+      - Contact us Page
+        - The submit confirmation Page
+   - Technology used
+   - Testing
+    - Validating Testing
+    - Unfixed Bugs
+   - Development & Deployment
+   - Content
+   - Media
+   - Credit
+         
 # Features 
 ## Existing Features 
 - ### Navigation Bar
