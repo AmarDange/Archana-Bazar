@@ -164,24 +164,7 @@ Images have been chosen in accordance to the color and content. The purpose of t
       - The responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, Tablet-768px, Laptop-1024px) using Devtools sevice          toolbar. The different CSS propoerties for font, color, background-color, links, submit button work as expected.
       - Animation of the hero-image text moves within the defined area.
       - When social link in the footer is clicked, it directs to the respective social media page.
-    
-    
- ## Bugs 
-
-   - ### Fixed bugs
-  
-      - on different pages of the website, header background color was not visible on smaller devices.
-
-      - to solve this bug, I used flex-direction:column instead of display:inline flex-direction
-     
-     ![image](https://user-images.githubusercontent.com/122646108/216823781-ff0b9624-831a-4361-ba69-5ef1da4c9994.png)
-
-       - additionally, for code optimization, I removed repeated use of background color property from each media query.
-      
-   - Submission on contact page submits the information without validating the required entries.
-
-      - to solve this bug, I removed the anchor tag as a descendent of the button and added page link in action attribute.
-     
+        
      
 - ### Validator Testing
 
@@ -208,6 +191,23 @@ Images have been chosen in accordance to the color and content. The purpose of t
      - Lighthouse test for desktop
 
      - ![image](https://user-images.githubusercontent.com/122646108/217484094-f535f0a9-72fa-4f36-b8c3-98ea086e1519.png)
+     
+     
+      ## Bugs 
+
+   - ### Fixed bugs
+  
+      - on different pages of the website, header background color was not visible on smaller devices.
+
+      - to solve this bug, I used flex-direction:column instead of display:inline flex-direction
+     
+     ![image](https://user-images.githubusercontent.com/122646108/216823781-ff0b9624-831a-4361-ba69-5ef1da4c9994.png)
+
+       - additionally, for code optimization, I removed repeated use of background color property from each media query.
+      
+   - Submission on contact page submits the information without validating the required entries.
+
+      - to solve this bug, I removed the anchor tag as a descendent of the button and added page link in action attribute.
 
 - ### Deployment
 
