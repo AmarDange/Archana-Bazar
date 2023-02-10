@@ -29,14 +29,14 @@ This website also provides an option to the user for any specific inquiry for th
      - Gallery
      - Contact us Page
         - The submit confirmation Page
-     - Technology used
-    - Testing
+ - Technology used
+ - Testing
     - Validating Testing
     - Unfixed Bugs
-   - Development & Deployment
-   - Content
-   - Media
-   - Credit
+ - Development & Deployment
+ - Content
+ - Media
+ - Credit
    
  ## UX
 
