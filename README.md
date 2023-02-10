@@ -33,7 +33,7 @@ This website also provides an option to the user for any specific inquiry for th
 - [Testing](#testing "Testing")
     - [Validating Testing](#validating-testing "Validating Testing")
     - [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
-- [Development & Deployment](#development-&-deployment "Development & Deployment")
+- [Development](#development "Development")
 - [Content](#content "Content")
 - [Media](#media "Media")
 - [Credit](#credit "Credit")
@@ -217,13 +217,12 @@ Images have been chosen in accordance to the color and content. The purpose of t
 
  ## Deployment
 
-  The site was deployed to GitHub pages. The steps to deploy are as follows:
+ The site was deployed to GitHub pages. The steps to deploy are as follows:
   
-    1. In the GitHub repository, navigate to the Settings tab
-    2. From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
-    2. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
-     
-    4. The live link can be found here -  https://amardange.github.io/Archana-Bazar/
+ 1. In the GitHub repository, navigate to the Settings tab.
+ 2. From the side menu, select pages under Code and automation, select the main Branch, then click to save button.
+ 3. Once the main branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+ 4. The live link can be found here -  https://amardange.github.io/Archana-Bazar/
      
  ## Credits
 
