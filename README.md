@@ -160,8 +160,10 @@ Images have been chosen in accordance to the color and content. The purpose of t
       - all the pages of the website on different browsers: Chrome, Edge, Safari.
       - When a nav element is clicked, it provides the navigation link to the respective page.
       - When social link in the footer is clicked, it directs to the respective social media page.
-    ![iamge](https://github.com/AmarDange/Archana-Bazar/blob/main/screenshots/testing.JPG).
-    ![image](https://github.com/AmarDange/Archana-Bazar/blob/main/screenshots/testing1.JPG).
+  ![image](https://user-images.githubusercontent.com/122646108/218077458-6eb1256f-855f-4f76-94d3-0bf16504e87a.png)
+  ![image](https://user-images.githubusercontent.com/122646108/218077876-8736f180-8aec-4ab0-b9a4-005920d0d500.png)
+
+
      
      
 - ### Validator Testing
