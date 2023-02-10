@@ -215,7 +215,7 @@ Images have been chosen in accordance to the color and content. The purpose of t
   - [HTML](https://en.wikipedia.org/wiki/HTML) 
   - [CSS](https://en.wikipedia.org/wiki/CSS)
 
-- ### Deployment
+ - ### Deployment
 
   The site was deployed to GitHub pages. The steps to deploy are as follows:
   
@@ -225,19 +225,18 @@ Images have been chosen in accordance to the color and content. The purpose of t
      
     - The live link can be found here -  https://amardange.github.io/Archana-Bazar/
      
-- ### Credits
+ - ### Credits
 
 - ### For code inspiration, design inputs, help and advice. Many thanks to:
-
 Jyoti Yadav
  - My amazing batchmate at code institute, Thank you for the help!!
   
-   - ## Content
+   - ### Content
     
    - Some of the texts for the Home page and Our Programs page was taken from different search results from Google/Bing. For example, https://www.sundaramgroups.in.
 
   - The icons in the footer were taken from CI Love Running project.
 
-- ### Media
+ - ### Media
 
   - The photos used on the home and Our Programs page are from different open sources. For example www.pexels.com and www.shutterstocks.com.
