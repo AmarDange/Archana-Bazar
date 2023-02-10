@@ -25,8 +25,8 @@ This website also provides an option to the user for any specific inquiry for th
     - Validating Testing
     - Unfixed Bugs
 - Development & Deployment
-- Content
-- Media
+- [Content](#content "Content")
+- [Media](#media "Media")
 - [Credit](#credit "Credit")
    
  ## UX
