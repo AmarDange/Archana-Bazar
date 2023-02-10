@@ -161,6 +161,8 @@ Images have been chosen in accordance to the color and content. The purpose of t
       - all the pages of the website on different browsers: Chrome, Edge, Safari.
       - When a nav element is clicked, it provides the navigation link to the respective page.
       - When social link in the footer is clicked, it directs to the respective social media page.
+      - ![image](https://user-images.githubusercontent.com/122646108/218070250-bd2ea5cb-3718-4498-bf82-227a5856a769.png)
+
         
      
 - ### Validator Testing
