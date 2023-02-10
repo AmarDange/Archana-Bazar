@@ -21,7 +21,7 @@ This website also provides an option to the user for any specific inquiry for th
       - [Images](#images "Images")
 - [Feature](#features "Features")
 - [Existing Features](#existing-features "Existing Features")
-      - [Navigation Bar](#navigation-bar"Navigation Bar") 
+     - [Navigation Bar](#navigation-bar"Navigation Bar") 
        - [The landing page](#the-landing-page "The landing page")
        - [Available books in our shops](#available-books-in-our-shops "Available books in our shops")
        - [Our Branches](#our-branches "Our Branches")
