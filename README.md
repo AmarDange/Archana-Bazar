@@ -142,7 +142,7 @@ Images have been chosen in accordance to the color and content. The purpose of t
 - ### The Contact Us Page
 
    - This page will allow the user to contact our team for inquiry about book.
-   - The user will be asked to submit their name, email addres, phone number along with the inquiry text. 
+   - The user will be asked to submit their name, email address, phone number along with the inquiry text. 
    - Additionally they can contact us via Telephone or Email.
    
  ![image](https://user-images.githubusercontent.com/122646108/216822262-c18e73e2-91bd-43bf-b6e5-05e8a5ece10c.png)
