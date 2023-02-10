@@ -137,10 +137,7 @@ Images have been chosen in accordance to the color and content. The purpose of t
     - These images are of actual Images of Archana Bazar. It will provide Idea about shop to user. 
      
  ![image](https://user-images.githubusercontent.com/122646108/216822192-843ae53e-e89f-43cb-b039-284308c4363e.png)
- ![image](https://user-images.githubusercontent.com/122646108/218070650-2304cb7a-80bf-4206-975c-7dd4cfb58c87.png)
-
-
-
+ 
 - ### The Contact Us Page
 
    - This page will allow the user to contact our team for inquiry about book.
@@ -164,6 +161,8 @@ Images have been chosen in accordance to the color and content. The purpose of t
       - When a nav element is clicked, it provides the navigation link to the respective page.
       - When social link in the footer is clicked, it directs to the respective social media page.
       - ![image](https://user-images.githubusercontent.com/122646108/218070250-bd2ea5cb-3718-4498-bf82-227a5856a769.png)
+      - ![image](https://user-images.githubusercontent.com/122646108/218070779-7f0e8ac2-1b6e-4e26-8530-fbd59e2ade08.png)
+
 
         
      
