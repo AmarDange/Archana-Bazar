@@ -20,11 +20,11 @@ This website also provides an option to the user for any specific inquiry for th
       - [Typography](#typography "Typography")
       - [Images](#images "Images")
 - [Feature](#features "Features")
-- [Technology used](#technology used "Technology used")
+- [Technology used](#technology-used "Technology used")
 - Testing
     - Validating Testing
-    - [Unfixed Bugs](#unfixed bugs "Unfixed Bugs")
-- [Development & Deployment](#development & deployment "Development & Deployment")
+    - [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
+- [Development & Deployment](#development-&-deployment "Development & Deployment")
 - [Content](#content "Content")
 - [Media](#media "Media")
 - [Credit](#credit "Credit")
