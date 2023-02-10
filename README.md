@@ -216,6 +216,10 @@ Images have been chosen in accordance to the color and content. The purpose of t
     - The live link can be found here -  https://amardange.github.io/Archana-Bazar/
      
 - ### Credits
+- ### For code inspiration, design inputs, help and advice. Many thanks to:
+
+Jyoti Yadav
+ - My amazing batchmate at code institute, Thank you for the help!!
    - ## Content
     
    - Some of the texts for the Home page and Our Programs page was taken from different search results from Google/Bing. For example, https://www.sundaramgroups.in.
