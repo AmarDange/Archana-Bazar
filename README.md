@@ -160,8 +160,6 @@ Images have been chosen in accordance to the color and content. The purpose of t
    - I tested the following:
       - all the pages of the website on different browsers: Chrome, Edge, Safari.
       - When a nav element is clicked, it provides the navigation link to the respective page.
-      - The responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, Tablet-768px, Laptop-1024px) using Devtools sevice          toolbar. The different CSS propoerties for font, color, background-color, links, submit button work as expected.
-      - Animation of the hero-image text moves within the defined area.
       - When social link in the footer is clicked, it directs to the respective social media page.
         
      
@@ -209,6 +207,9 @@ Images have been chosen in accordance to the color and content. The purpose of t
       - to solve this bug, I removed the anchor tag as a descendent of the button and added page link in action attribute.
       
 - ### Unfixed Bugs
+ 
+  - The responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, ) using Devtools sevice toolbar. The different CSS propoerties for font, color, background-color, links, submit button not work as expected.
+ 
 
  ## Technology used
 
