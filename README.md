@@ -14,20 +14,20 @@ This website also provides an option to the user for any specific inquiry for th
   - [User Demographic](#user-demographic "User Demographic")
   - [User Stories](#user-stories "User Stories")
     - [New Users](#new-users "New Users")
-    - [User Goals](#user-goals "User Goals")
-    - [Requirement](#requirements "Requirements")
-    - [Design](#design "Design")
+   - [User Goals](#user-goals "User Goals")
+   - [Requirement](#requirements "Requirements")
+   - [Design](#design "Design")
       - [Typography](#typography "Typography")
       - [Images](#images "Images")
- - [Feature](#features "Features")
- - [Technology used](#technology used "Technology used")
- - Testing
+- [Feature](#features "Features")
+- [Technology used](#technology used "Technology used")
+- Testing
     - Validating Testing
     - Unfixed Bugs
- - Development & Deployment
- - Content
- - Media
- - Credit
+- Development & Deployment
+- Content
+- Media
+- Credit
    
  ## UX
 
