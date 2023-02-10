@@ -21,8 +21,8 @@ This website also provides an option to the user for any specific inquiry for th
       - [Images](#images "Images")
 - [Feature](#features "Features")
 - [Technology used](#technology-used "Technology used")
-- Testing
-    - Validating Testing
+- [Testing](#testing "Testing")
+    - [Validating Testing](#validating-testing "Validating Testing")
     - [Unfixed Bugs](#unfixed-bugs "Unfixed Bugs")
 - [Development & Deployment](#development-&-deployment "Development & Deployment")
 - [Content](#content "Content")
