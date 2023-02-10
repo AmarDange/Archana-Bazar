@@ -27,7 +27,7 @@ This website also provides an option to the user for any specific inquiry for th
 - Development & Deployment
 - Content
 - Media
-- Credit
+- [Credit](#credit "Credit")
    
  ## UX
 
