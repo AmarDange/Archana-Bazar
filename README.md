@@ -211,7 +211,7 @@ Images have been chosen in accordance to the color and content. The purpose of t
       
 - ### Unfixed Bugs
  
-  - The responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, ) using Devtools sevice toolbar. The different CSS propoerties for font, color, background-color, links, submit button not work as expected.
+  - The responsiveness of the website on different screen sizes (Mobile S-320px, Mobile M-375px, Mobile L-425px, ) using Devtools sevice toolbar. on mobile phone I cannot fix Bug due to lesstime. 
  
 
  ## Technology used
