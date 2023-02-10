@@ -202,6 +202,8 @@ Images have been chosen in accordance to the color and content. The purpose of t
 - ### Unfixed Bugs
 
 - ### Technology used
+  - [HTML](https://en.wikipedia.org/wiki/HTML) 
+  - [CSS](https://en.wikipedia.org/wiki/CSS)
 
 - ### Deployment
 
