@@ -68,8 +68,8 @@ This website is made for:
 A static responsive website that incorporates the technologies I have learned so far that contains some advanced functionality. The development process needs to be well documented through a version controls system such as GitHub.
 
 Required technologies: 
-  - [HTML](https://en.wikipedia.org/wiki/HTML) 
-  - [CSS](https://en.wikipedia.org/wiki/CSS)
+  - HTML 
+  - CSS
 
 ### Design
 
