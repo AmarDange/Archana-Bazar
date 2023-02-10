@@ -29,7 +29,7 @@ This website also provides an option to the user for any specific inquiry for th
      - Gallery
      - Contact us Page
         - The submit confirmation Page
- - Technology used
+ - [Technology used](#technology used "Technology 
  - Testing
     - Validating Testing
     - Unfixed Bugs
@@ -210,6 +210,7 @@ Images have been chosen in accordance to the color and content. The purpose of t
       
 - ### Unfixed Bugs
 
+- ### Technology used
 
 - ### Deployment
 
