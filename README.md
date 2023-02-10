@@ -137,6 +137,8 @@ Images have been chosen in accordance to the color and content. The purpose of t
     - These images are of actual Images of Archana Bazar. It will provide Idea about shop to user. 
      
  ![image](https://user-images.githubusercontent.com/122646108/216822192-843ae53e-e89f-43cb-b039-284308c4363e.png)
+ ![image](https://user-images.githubusercontent.com/122646108/218070650-2304cb7a-80bf-4206-975c-7dd4cfb58c87.png)
+
 
 
 - ### The Contact Us Page
