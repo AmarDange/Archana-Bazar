@@ -29,7 +29,7 @@ This website also provides an option to the user for any specific inquiry for th
      - Gallery
      - Contact us Page
         - The submit confirmation Page
- - [Technology used](#technology used "Technology 
+ - [Technology used](#technology used "Technology used")
  - Testing
     - Validating Testing
     - Unfixed Bugs
